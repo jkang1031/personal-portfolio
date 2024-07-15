@@ -300,6 +300,11 @@ article.active {
   #MAIN
 \*-----------------------------------*/
 
+html {
+  transform : scale(1.5);
+  transform-origin: top left;
+}
+
 main {
   margin: 15px 12px;
   margin-bottom: 75px;
